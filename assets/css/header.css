@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: var(--main-white);
+}
+.header-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.header-logo {
+}
+.header-search {
+}
+.header__search-window {
+}
+.header__search-btn {
+}
+.header-phone {
+}
+.header__main-block {
+}
+.header__mail-btn {
+}
