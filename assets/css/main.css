@@ -1,0 +1,15 @@
+html{
+    --main-blue: #2a3e5e;
+    --main-white: #fff;
+    --main-dark: #262e3b;
+    --input-text: rgba(200,200,200,0.9);
+    --secondary-white: #fcf9f9;
+}
+h1{
+    font-size: 54px;
+    font-weight: 700;
+    color: var(--main-white);
+}
+body{
+    background-color: var(--main-dark);
+}
